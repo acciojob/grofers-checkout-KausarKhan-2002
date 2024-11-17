@@ -6,7 +6,7 @@ const getSum = () => {
 //Add your code here
 	
 // Select all elements with the class "price"
-  const priceElements = document.querySelectorAll(".price");
+  const priceElements = document.querySelectorAll(".prices");
   
   // Calculate the total sum of prices
   let totalPrice = 0;
