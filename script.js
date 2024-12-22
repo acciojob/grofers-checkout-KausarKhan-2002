@@ -1,4 +1,5 @@
 // Function to calculate and append the total price to the table
+
 function calculateTotalPrice() {
   // Select all elements with the class "prices"
   const priceElements = document.querySelectorAll('.prices');
